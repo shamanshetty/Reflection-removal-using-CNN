@@ -1,4 +1,4 @@
-# Reflection Removal Model 🪞➡️🖼  
+# Reflection Removal Model
 
 ## Overview  
 This project implements a **deep learning model** for **reflection removal from images**. Developed during **VisionX Hackathon (Qualcomm)**, our model enhances image quality by eliminating unwanted reflections using a **Convolutional Neural Network (CNN)**.  
@@ -55,20 +55,20 @@ The model follows a **U-Net inspired CNN architecture**, consisting of:
 - **Activation: ReLU & Sigmoid** for precise pixel-wise predictions.  
 
 ## Evaluation Metrics  
-📊 The model is evaluated using:  
+The model is evaluated using:  
 - **PSNR (Peak Signal-to-Noise Ratio)**  
 - **SSIM (Structural Similarity Index)**  
 - **MSE (Mean Squared Error)**  
 
 ## Contributions  
-🚀 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to:  
+ Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to:  
 1. **Fork the repository**  
 2. **Create a new branch**  
 3. **Submit a Pull Request**  
 
 ---
 
-🔬 **Developed for VisionX Hackathon by Qualcomm**  
-💡 **Team Name:** *WESHOWSPEED*  
+ **Developed for VisionX Hackathon by Qualcomm**  
+**Team Name:** *WESHOWSPEED*  
 
-🚀 **Removing Reflections, Enhancing Reality!**
+
