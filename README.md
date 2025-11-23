@@ -3,6 +3,8 @@
 ## Overview  
 This project implements a **deep learning model** for **reflection removal from images**. Developed during **VisionX Hackathon (Qualcomm)**, our model enhances image quality by eliminating unwanted reflections using a **Convolutional Neural Network (CNN)**.  
 
+
+
 ## Features  
 ✔ **Removes reflections** from glass-covered images.  
 ✔ **Deep learning-based** approach using **TensorFlow/Keras**.  
@@ -70,5 +72,6 @@ The model is evaluated using:
 
  **Developed for VisionX Hackathon by Qualcomm**  
 **Team Name:** *WESHOWSPEED*  
+
 
 
